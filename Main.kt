@@ -1,6 +1,3 @@
-import java.util.Timer
-import kotlin.concurrent.schedule
-
 fun main(args: Array<String>) {
     println("===========================================")
     println("Selamat datang di permainal ter-jan-ken-pow \n")
